@@ -1,0 +1,11 @@
+gene.name	cluster	tissue
+OR4K2	olfactory receptor	main olfactory epithelium
+OR2V2	olfactory receptor	main olfactory epithelium
+OR2M3	olfactory receptor	main olfactory epithelium
+OR5AN1	olfactory receptor	main olfactory epithelium
+ACE2	SARS-CoV-2 receptor	putative SARS-CoV-2 target
+OMP	mature olf. neur.	main olfactory epithelium
+CNGA2	olfactory cascade	main olfactory epithelium
+ANO2	olfactory cascade	main olfactory epithelium
+ERMN	sustentacular cells	main olfactory epithelium
+TMPRSS2	SARS-CoV-2 entry	putative SARS-CoV-2 target
